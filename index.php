@@ -123,7 +123,7 @@
 
 
 	<script
-		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAXaLaNiJvZtYQEoITW_5DiNxXBtwLqBWs&callback=initMap&libraries=&v=weekly"
+		src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap&libraries=&v=weekly"
 		async></script>
 
 	<script type="text/javascript">
